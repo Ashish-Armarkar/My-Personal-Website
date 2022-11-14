@@ -1,0 +1,123 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #d7f9fc;
+    font-size: 1rem;
+}
+
+.Heading{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+a{
+    color: #11999E;
+    text-decoration: none;  
+    padding: 0 20px 0 20px ;
+}
+
+.Sub-heading{
+    font-family: 'PT Serif', serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+}
+
+p{
+    text-align: center;
+}
+
+.Top-container{
+   background-color: #d7f9fc ;
+   position: relative;
+   padding-top: 15%;
+   
+
+}
+
+.Top-cloud{
+    position: absolute;
+    left: 895px;
+    top: 180px;
+}
+
+.Bottom-cloud{
+    position: absolute;
+    bottom: 350px;
+    left: 500px;
+
+}
+
+hr{
+    width: 5%;
+    height: 1%;
+    border-style: dotted none none none;
+    border-color: rgb(83, 120, 140);
+    border-width: 10px;
+}
+
+.Profile-img{
+    height: 100px;
+}
+
+.skill-img1{
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img2{
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.btn{
+    background-color: #47c3c3;
+    margin-top: 100px;
+    color: #fff;
+    border: 2px solid #66BFBF;
+    font-size: 2rem;
+    border-radius: 10px;
+    
+    
+}
+.contact-me{
+    margin: 100px 0 100px 0;
+   
+}
+
+.contact-me-p{
+    margin-bottom: 100px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+}
+
+.bottom-container{
+    color: #EAF6F6;
+}
